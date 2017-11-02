@@ -1,0 +1,7 @@
+db.driverClassName = org.firebirdsql.jdbc.FBDriver
+db.url = jdbc:firebirdsql://localhost/C:/DB/CITY2.FDB"
+db.username = SYSDBA
+db.password = masterkey
+hibernate.dialect = org.hibernate.dialect.FirebirdDialect
+hibernate.show_sql = true
+hibernate.format_sql = true
